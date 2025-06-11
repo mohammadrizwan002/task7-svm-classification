@@ -1,4 +1,4 @@
-Task 7 - SVM Classification
+Task 7 - SVM Classification (ELEVATE LABS AIML INTERNSHIP JUNE-2025)
 
 This task is part of my AI & ML internship.
 
